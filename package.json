@@ -4,6 +4,6 @@
         "express": "4.17.2"
     },
     "scripts":{
-        "start": "./ex.clockweb/app.js"
+        "start": "node app.js"
     }
 }
